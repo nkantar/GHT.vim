@@ -1,6 +1,6 @@
 " GHT.vim - GitHub Templates, GitHub issue and pull request template support
 " Maintainer:   Nikola Kantar <http://nkantar.com>
-" Version:      1.1
+" Version:      1.1.1
 
 
 " Return a sanitized version of the current path.
@@ -37,10 +37,12 @@ function! s:GHTFindTemplate(filename, current_dir)
             echo "No template " . a:filename . " in this repo."
         endif
     else
-        if a:current_dir != "\n/"
+        if a:current_dir != "/"
             exec "cd .."
             let new_dir = s:GHTGetCurrentDir()
             call s:GHTFindTemplate(a:filename, l:new_dir)
+        else
+            echo "No template " . a:filename . " in this repo."
         endif
     endif
 endfunction
