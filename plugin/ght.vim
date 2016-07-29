@@ -46,7 +46,7 @@ function! s:GHTFindTemplate(filename, current_dir)
 endfunction
 
 " This is where the magic *really* happens.
-function! s:GHT(template)
+function! g:GHT(template)
     let og_dir = s:GHTGetCurrentDir()
     let base = "/.github/"
     if (a:template == "pr")
