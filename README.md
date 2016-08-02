@@ -32,6 +32,6 @@ nmap <silent> ;p :call GHT('pr')<CR>
 
 ## Contributing
 
-Feel free to [create issues](https://github.com/nkantar/GHT.vim/issues/new 'New Issue') and submit pull requests. No, there are no templates at this moment... :smirk:
+Feel free to [create](https://github.com/nkantar/GHT.vim/issues/new 'New Issue') and [tackle](https://github.com/nkantar/GHT.vim/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22 'Help Wanted') issues. No, there are no templates at this moment... :smirk:
 
-You can also [get in touch](mailto:nik@nkantar.com 'Email me'). :love_letter:
+You can also get in touch via [email :love_letter:](mailto:nik@nkantar.com 'Email me') or [Twitter :bird:](https://twitter.com/nkantar '@nkantar').
