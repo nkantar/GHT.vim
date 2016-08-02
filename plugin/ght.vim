@@ -1,6 +1,6 @@
 " GHT.vim - GitHub Templates, GitHub issue and pull request template support
 " Maintainer:   Nikola Kantar <http://nkantar.com>
-" Version:      1.1.2
+" Version:      1.1.3
 
 
 " Return a sanitized version of current path.
@@ -18,6 +18,7 @@ function! s:GHTOpenBufferWithTemplate(filename)
     setlocal buftype=nofile
     setlocal bufhidden=hide
     setlocal noswapfile
+    setlocal syntax=markdown
     exec "0r" a:filename
 endfunction
 
