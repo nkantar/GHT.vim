@@ -1,6 +1,7 @@
-" GHT.vim - GitHub Templates, GitHub issue and pull request template support
+" GHT.vim - GitHub Templates
+" GitHub issue and pull request template support
 " Maintainer:   Nikola Kantar <http://nkantar.com>
-" Version:      1.1.3
+" Version:      1.1.4
 
 
 " Return a sanitized version of current path.

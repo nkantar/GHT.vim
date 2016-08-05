@@ -2,6 +2,8 @@
 
 GitHub Templates &mdash; GitHub issue and pull request template support
 
+![ght](https://cloud.githubusercontent.com/assets/568543/17439488/32d15126-5add-11e6-9aea-4042b802e56d.gif)
+
 ## What + Why
 
 **GHT** allows for quick editing of issue and pull request text based on the [templates GitHub supports](https://github.com/blog/2111-issue-and-pull-request-templates 'Issue and Pull Request templates').
