@@ -16,12 +16,16 @@ Also, one ought to know how to customize one's editor of choice, and now I know 
 
 ### Vundle
 
-`Plugin 'nkantar/GHT.vim'`
+```viml
+Plugin 'nkantar/GHT.vim'
+```
 
 ## Usage
 
-- `GHTIssue`
-- `GHTPR`
+```viml
+:GHTIssue
+:GHTPR
+```
 
 Each of these commands looks for the appropriate template (`/.github/ISSUE_TEMPLATE.md` and `/.github/PULL_REQUEST_TEMPLATE.md`) in the repository's root. If no file is found, an error message is shown. If it *is* found, a new scratch buffer is opened with the contents of the file.
 
