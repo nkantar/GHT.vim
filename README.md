@@ -36,6 +36,13 @@ nmap <silent> ;i :call GHT('issue')<CR>
 nmap <silent> ;p :call GHT('pr')<CR>
 ```
 
+## Help
+
+- IRC: [irc://chat.freenode.net:6667/ght-vim](https://webchat.freenode.net/?channels=%23ght-vim&uio=MTE9NzIaa '#ght-vim on freenode')
+<!-- Commented out until it starts working.
+- Mailing list: [mailto:ght.vim@librelist.com](ght.vim@librelist.com 'ght.vim@librelist.com')
+-->
+
 ## Contributing
 
 Feel free to [create](https://github.com/nkantar/GHT.vim/issues/new 'New Issue') and [tackle](https://github.com/nkantar/GHT.vim/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22 'Help Wanted') issues. No, there are no templates at this moment... :smirk:

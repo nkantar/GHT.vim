@@ -6,7 +6,8 @@
 - Add `CHANGELOG.md`.
 
 ### Changed
-- Update `README.md` to include syntax highlighting.
+- Update `README.md` to include syntax highlighting and IRC info.
+- Also added list info to `README.md`, but it's commented out until it starts working.
 
 ## [1.1.4] - 2016-08-05
 
