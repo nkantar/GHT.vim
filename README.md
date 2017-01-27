@@ -39,9 +39,6 @@ nmap <silent> ;p :call GHT('pr')<CR>
 ## Help
 
 - IRC: [irc://chat.freenode.net:6667/ght-vim](https://webchat.freenode.net/?channels=%23ght-vim&uio=MTE9NzIaa '#ght-vim on freenode')
-<!-- Commented out until it starts working.
-- Mailing list: [mailto:ght.vim@librelist.com](ght.vim@librelist.com 'ght.vim@librelist.com')
--->
 
 ## Contributing
 
