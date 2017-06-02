@@ -12,6 +12,8 @@ I like writing in Vim *so much* that I found myself copy/pasting the template te
 
 Also, one ought to know how to customize one's editor of choice, and now I know some basic vimscript. :thumbsup:
 
+[![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/nkantar)
+
 ## Installation
 
 ### Vundle
