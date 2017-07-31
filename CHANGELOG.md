@@ -4,6 +4,15 @@
 ## [Unreleased]
 
 
+## [1.1.6]
+
+### Added
+- Code of Conduct
+
+### Changed
+- Contributing Guidelines wording
+
+
 ## [1.1.5]
 
 ### Added
@@ -59,7 +68,8 @@
     - `GHTIssue` and `GHTPR` commands load appropriate templates in a scratch buffer.
 
 
-[Unreleased]: https://github.com/nkantar/GHT.vim/compare/1.1.5...HEAD
+[Unreleased]: https://github.com/nkantar/GHT.vim/compare/1.1.6...HEAD
+[1.1.6]: https://github.com/nkantar/GHT.vim/compare/1.1.5...1.1.6
 [1.1.5]: https://github.com/nkantar/GHT.vim/compare/1.1.4...1.1.5
 [1.1.4]: https://github.com/nkantar/GHT.vim/compare/1.1.3...1.1.4
 [1.1.3]: https://github.com/nkantar/GHT.vim/compare/1.1.2...1.1.3
