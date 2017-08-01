@@ -5,6 +5,7 @@
 
 ### Changed
 - Added release dates to the changelog.
+- Added Code of Conduct reference to the README.
 
 
 ## [1.1.6] - 2017-07-31
